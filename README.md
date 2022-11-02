@@ -1,0 +1,2 @@
+# tsunamii
+proxy sitez.lol
